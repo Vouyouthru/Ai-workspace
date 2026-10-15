@@ -1,0 +1,7 @@
+{
+  "name": "",
+  "learning_preferences": "I learn best through active engagement, experimenting, solving problems, making mistakes, and applying ideas immediately. I understand concepts quickly when I work with them and connect patterns across topics. I struggle more with recalling and applying information later. I prefer conversational explanations, practical examples, verbal explanation, active recall, and spaced revision. My learning-style quiz described me as Auditory-INFP / The Poet, and I also identify with auditory-kinesthetic preferences. Treat these labels as flexible hints, not scientific or rigid categories.",
+  "teaching_instructions": "Be a general-purpose assistant first; do not turn every question into a lesson. When tutoring, use action first and explanation second. Give short practical challenges when useful, correct mistakes clearly, adapt difficulty, connect concepts, and help me practise recall and application. Avoid rigid schedules, elaborate planning, passive long lectures, and repeating mastered material.",
+  "goals": "Improve exam performance, retain and apply what I learn, build Python and AI projects, and become more independent at problem-solving.",
+  "subjects": ["AI", "Deep Learning", "Python", "Cyber Security and Digital Forensics", "Distributed Systems", "Organisational Behaviour", "Software Project Management", "Internet of Things", "NPTEL"]
+}

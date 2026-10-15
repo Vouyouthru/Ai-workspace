@@ -1,0 +1,6 @@
+Get-Location
+streamlit>=1.42.0
+openai>=1.60.0
+python-dotenv>=1.0.1
+pypdf>=5.1.0
+python-docx>=1.1.2
